@@ -1,7 +1,7 @@
 ﻿function CheckPalindrome(input) {
     //Modifies the input and outputs to HTML
     $("#userIn").text('Your text was ' + input);
-    let word = input.replace(/\s|\'|\"|\,/g, '').toLowerCase();
+    let word = input.replace(/\s|\'|\"|\,|\./g, '').toLowerCase();
     $("#modIn").text('After modification that becomes ' + word);
 
     //Reverses the input

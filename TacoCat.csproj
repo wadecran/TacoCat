@@ -70,9 +70,9 @@
     <Content Include="css\prism.css" />
     <Content Include="scripts\JavaScript.js" />
     <Content Include="scripts\prism.js" />
-    <Content Include="html\Code.html" />
-    <Content Include="html\Index.html" />
-    <Content Include="html\Solve.html" />
+    <Content Include="Code.html" />
+    <Content Include="Index.html" />
+    <Content Include="Solve.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
