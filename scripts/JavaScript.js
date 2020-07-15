@@ -6,7 +6,7 @@
 
     //Reverses the input
     let reverse = word.toLowerCase().split("").reverse().join("");
-    $("#modRev").text('Your modified text reveresed is ' + reverse);
+    $("#modRev").text('Your modified text reversed is ' + reverse);
 
 
     //Compares the input and the reversed input and outputs results to the HTML
